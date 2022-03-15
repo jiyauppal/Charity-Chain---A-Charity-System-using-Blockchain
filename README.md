@@ -3,6 +3,11 @@ This Blockchain system will bring transparency to online charity trusts and syst
 
 ## Requirements Of Projects
 >Solidity Web3
-Solidity provides Inheritance properties in contracts including multiple level inheritance properties.
-
+-Solidity provides Inheritance properties in contracts including multiple level inheritance properties.
+>Metamask
+-To have an easy-to-use and secure wallet service, the platform connects to users' MetaMask automatically.
+>HTML, CSS and JavaScript
+-These technologies provide frontend on the application.
+>Ganache
+-Ganache provides the GUI-based local Ethereum blockchain development environment to deploy and test contracts.
 
