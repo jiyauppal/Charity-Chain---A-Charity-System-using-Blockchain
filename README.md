@@ -6,7 +6,7 @@ Solidity Web3</br>
 -Solidity provides Inheritance properties in contracts including multiple level inheritance properties.</br>
 </br>
 Metamask</br>
-To have an easy-to-use and secure wallet service, the platform connects to users' MetaMask automatically.</br>
+-To have an easy-to-use and secure wallet service, the platform connects to users' MetaMask automatically.</br>
 </br>
 HTML, CSS and JavaScript</br>
 -These technologies provide frontend on the application.</br>
