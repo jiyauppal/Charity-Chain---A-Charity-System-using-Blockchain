@@ -14,5 +14,7 @@ HTML, CSS and JavaScript</br>
 Ganache</br>
 -Ganache provides the GUI-based local Ethereum blockchain development environment to deploy and test contracts.
 </br>
--Database : SQL to store data about the transactions.
+</br>
+Database </br>
+ -SQL to store data about the transactions.
 
