@@ -11,7 +11,6 @@ Metamask</br>
 HTML, CSS and JavaScript</br>
 -These technologies provide frontend on the application.</br>
 </br>
-</br>
 Python and Django framework </br>
 -These technologies provide backend on the application.</br>
 </br>
