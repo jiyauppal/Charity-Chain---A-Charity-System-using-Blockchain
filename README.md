@@ -11,6 +11,10 @@ Metamask</br>
 HTML, CSS and JavaScript</br>
 -These technologies provide frontend on the application.</br>
 </br>
+</br>
+Python and Django framework </br>
+-These technologies provide backend on the application.</br>
+</br>
 Ganache</br>
 -Ganache provides the GUI-based local Ethereum blockchain development environment to deploy and test contracts.
 </br>
